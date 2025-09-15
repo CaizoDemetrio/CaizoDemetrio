@@ -1,4 +1,4 @@
-<h2 align="left">Oi👋! Meu nome é Caizo, sou de Brasília. E estou no primeiro semestre de ADS.</h2>
+<h2 align="left">Oi👋! Meu nome é Caizo, sou de Brasília. E estou no Terceiro semestre de ADS.</h2>
 
 ###
 
