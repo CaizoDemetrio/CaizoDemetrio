@@ -27,7 +27,7 @@ Tenho interesse em desenvolvimento de software, tecnologia e resolução de prob
 
 Estou constantemente buscando aprimorar minhas habilidades técnicas, explorar novas ferramentas e transformar meus conhecimentos em projetos práticos.
 
-- 🎓 Análise e Desenvolvimento de Sistemas — 3º semestre.
+- 🎓 Análise e Desenvolvimento de Sistemas — 5º semestre.
 - 💻 Interesse em desenvolvimento de software.
 - 🧩 Estudando lógica, programação e arquitetura de sistemas.
 - 🚀 Desenvolvendo projetos acadêmicos e pessoais.
