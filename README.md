@@ -1,39 +1,127 @@
-<h2 align="left">Oi👋! Meu nome é Caizo, sou de Brasília. E estou no Terceiro semestre de ADS.</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaizoDemetrio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:172554,100:312E81&height=180&section=header&text=CAIZO%20DEMETRIO&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20in%20Progress&descAlignY=58&descSize=16"/>
+
+# Olá, eu sou o Caizo! 👋
+
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+<p>
+  Construindo conhecimento, desenvolvendo projetos e transformando ideias em soluções através da tecnologia.
+</p>
+
+<a href="https://github.com/CaizoDemetrio">
+  <img src="https://img.shields.io/badge/GitHub-CaizoDemetrio-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente no terceiro semestre.
+
+Tenho interesse em desenvolvimento de software, tecnologia e resolução de problemas.
+
+Estou constantemente buscando aprimorar minhas habilidades técnicas, explorar novas ferramentas e transformar meus conhecimentos em projetos práticos.
+
+- 🎓 Análise e Desenvolvimento de Sistemas — 3º semestre.
+- 💻 Interesse em desenvolvimento de software.
+- 🧩 Estudando lógica, programação e arquitetura de sistemas.
+- 🚀 Desenvolvendo projetos acadêmicos e pessoais.
+- 📚 Aprendizado contínuo e evolução profissional.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### Linguagens e desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=html,css,cs,dotnet" />
+
+### Banco de dados e ferramentas
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,docker" />
+
 </div>
 
-###
+### 📖 Atualmente estudando
 
-<div align="left">
-  <a href="https://www.instagram.com/caizodemetrio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="caizoalves@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/caizo-alves-335ba7291/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+- C# e orientação a objetos.
+- .NET e desenvolvimento de APIs.
+- SQL e modelagem de banco de dados.
+- Entity Framework Core.
+- Testes de software.
+- Arquitetura e organização de projetos.
+
+---
+
+## 🚀 Projetos e estudos
+
+Alguns dos temas que fazem parte da minha jornada:
+
+| Projeto / Repositório | Área |
+|---|---|
+| Banco-de-Dados-II | Banco de dados |
+| Desenvolvimento de Interfaces | Front-end |
+| RedeDeComputadores | Redes |
+| CSharp-OOP-Tutorial | Programação orientada a objetos |
+
+Confira meus repositórios:
+
+<a href="https://github.com/CaizoDemetrio?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar%20projetos-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaizoDemetrio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaizoDemetrio&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=CaizoDemetrio&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🎯 Objetivo profissional
 
-<img src="https://raw.githubusercontent.com/CaizoDemetrio/CaizoDemetrio/output/snake.svg" alt="Snake animation" />
+Evoluir constantemente como desenvolvedor, adquirir experiência prática e construir soluções eficientes, buscando oportunidades para crescer profissionalmente na área de Tecnologia da Informação.
 
-###
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/CaizoDemetrio">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Substitua pelo endereço real do seu perfil LinkedIn -->
+<!--
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
+
+</div>
+
+<div align="center">
+
+### "Grandes projetos começam com pequenas linhas de código."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:172554,100:09090B&height=100&section=footer"/>
+
+</div>
