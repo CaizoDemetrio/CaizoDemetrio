@@ -79,17 +79,32 @@ Confira meus repositórios:
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaizoDemetrio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<a href="https://github.com/CaizoDemetrio?tab=repositories">
+  <img src="https://img.shields.io/badge/MEUS_REPOSITÓRIOS-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaizoDemetrio&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/CaizoDemetrio?tab=stars">
+  <img src="https://img.shields.io/badge/PROJETOS_FAVORITOS-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://github.com/CaizoDemetrio">
+  <img src="https://img.shields.io/badge/VER_PERFIL-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=CaizoDemetrio&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🚀 Atividade e evolução
+
+<div align="center">
+
+Sempre desenvolvendo, aprendendo e evoluindo através de novos projetos.
 
 </div>
 
